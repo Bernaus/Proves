@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446143008 source:d:\alumnes\daw2\examenbernaus\c++\151029_1_classecomplexenc++ver06\complex.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"complex.hpp"
+	<iostream>
+
+1446143008 d:\alumnes\daw2\examenbernaus\c++\151029_1_classecomplexenc++ver06\complex.hpp
+
